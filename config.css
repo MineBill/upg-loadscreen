@@ -4,9 +4,14 @@
     --background-contrast: 95%;
     --background-blur: 3px;
     --loadbar-color: #ffffff5b;
-    --loadbar-progress-color: #0000009f;
-    --loadbar-height: 27px;
+    --loadbar-progress-color: #000000df;
+    /* --loadbar-progress-color: ; */
+    --loadbar-height: 20px;
     --footer-font-color: #dfdfdf98;
     --footer-font-size: 24px;
     --fadeTo-Color: #222222;
+}
+
+.loadname {
+    font-size: medium;
 }

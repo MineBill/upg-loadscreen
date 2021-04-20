@@ -3,7 +3,7 @@ var config = {
     "imgInterval": 8000,
     "music": true,
     "videoID": "jo4-FhqkNwQ", // Audio Only
-    "musicVolume": 70,
+    "musicVolume": 5,
     "text": {
         "title": "UPG",
         "link": "discord.unplannedgamers.gr(not real)",
