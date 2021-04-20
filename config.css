@@ -1,5 +1,6 @@
-/* Need Help? Join my discord @ discord.gg/yWddFpQ */
 :root {
+    user-select: none;
+    -moz-user-select: none;
     --background-contrast: 95%;
     --background-blur: 3px;
     --loadbar-color: #ffffff5b;
