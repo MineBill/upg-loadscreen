@@ -1,8 +1,11 @@
+fx_version 'cerulean'
+games 'gta5'
 
-resource_manifest_version '77731fab-63ca-442c-a67b-abc70f28dfa5'
+author 'MineBill'
+description 'A simple loading screen'
+version '0.1'
 
 loadscreen 'index.html'
-
 
 files {
     'index.html',

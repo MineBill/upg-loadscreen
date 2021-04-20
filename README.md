@@ -1,11 +1,10 @@
-# z-loadscreen: A Decent Looking Loading Screen.
-**z-loadscreen** is a loading screen....
+# upg-loadscreen: A Decent Looking Loading Screen.
+**upg-loadscreen** is a loading screen....
 
-![alt-text](https://github.com/ThatZiv/z-loadscreen/blob/master/ss/ss2.png?raw=true)
+![alt-text](https://github.com/ThatZiv/upg-loadscreen/blob/master/ss/ss2.png?raw=true)
 
 ## __Installation__
-1. Download [Here](https://github.com/ThatZiv/z-loadscreen).
-2. Add `start z-loadscreen` to your server.cfg
+1. Add `start upg-loadscreen` to your server.cfg
  ## __Preview__
  https://youtu.be/fQqR_QEaXQQ
 ## __Configuration__
@@ -70,3 +69,5 @@ If you need any help/support, join my [discord](https://discordapp.com/invite/yW
 
 
 -------
+
+Original Source: https://github.com/ThatZiv/z-loadscreen
